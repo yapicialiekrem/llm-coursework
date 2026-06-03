@@ -1,0 +1,69 @@
+# Task 1 — LoRA fine-tuning config for EN↔TR MT
+# Designed for RTX 4000 Ada (20 GB VRAM) with QLoRA 4-bit
+
+model:
+  name: "Qwen/Qwen2.5-7B-Instruct"
+  load_in_4bit: true
+  bnb_4bit_compute_dtype: "bfloat16"
+  bnb_4bit_quant_type: "nf4"
+  bnb_4bit_use_double_quant: true
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  bias: "none"
+  task_type: "CAUSAL_LM"
+  target_modules:
+    - "q_proj"
+    - "k_proj"
+    - "v_proj"
+    - "o_proj"
+    - "gate_proj"
+    - "up_proj"
+    - "down_proj"
+
+data:
+  dataset: "wmt16"
+  config: "tr-en"
+  train_samples: 30000          # bidirectional duplication → 60K examples
+  eval_samples: 500             # smaller eval set for faster mid-training validation
+  test_samples: 2000
+  max_seq_length: 256           # WMT16 sentences usually <100 tokens
+  direction: "both"             # en->tr + tr->en
+
+prompt:
+  template: "qwen_chat"          # uses <|im_start|>...<|im_end|>
+  en_to_tr_instruction: "Translate the following English sentence to Turkish."
+  tr_to_en_instruction: "Translate the following Turkish sentence to English."
+
+training:
+  output_dir: "outputs/checkpoints/qwen25_7b_lora_wmt16"
+  num_train_epochs: 3
+  per_device_train_batch_size: 4     # 32GB VRAM fits this comfortably
+  per_device_eval_batch_size: 4
+  gradient_accumulation_steps: 4     # effective batch = 16 (kept stable)
+  learning_rate: 2.0e-4
+  lr_scheduler_type: "cosine"
+  warmup_ratio: 0.03
+  weight_decay: 0.0
+  optim: "paged_adamw_8bit"          # saves VRAM
+  bf16: true
+  gradient_checkpointing: true
+  logging_steps: 25
+  eval_strategy: "steps"
+  eval_steps: 500
+  save_strategy: "steps"
+  save_steps: 500
+  save_total_limit: 2
+  report_to: "wandb"                  # set to "none" to disable
+  seed: 42
+
+evaluation:
+  comet_model: "Unbabel/wmt22-comet-da"
+  batch_size: 16
+  generation:
+    max_new_tokens: 256
+    do_sample: false
+    num_beams: 1
+    temperature: 1.0

@@ -1,0 +1,20 @@
+[
+  {
+    "system": "zero_shot",
+    "comet": 0.7629540954728922,
+    "n": 3000,
+    "path": "outputs/preds_zeroshot.jsonl"
+  },
+  {
+    "system": "maps",
+    "comet": 0.8050015756090482,
+    "n": 3000,
+    "path": "outputs/preds_maps.jsonl"
+  },
+  {
+    "system": "rag_5shot",
+    "comet": 0.7921346217542887,
+    "n": 3000,
+    "path": "outputs/preds_rag.jsonl"
+  }
+]

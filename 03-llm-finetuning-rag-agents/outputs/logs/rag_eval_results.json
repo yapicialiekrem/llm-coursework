@@ -1,0 +1,14 @@
+{
+  "zero_shot": {
+    "mode": "zero_shot",
+    "accuracy": 0.33,
+    "correct": 33,
+    "total": 100
+  },
+  "rag": {
+    "mode": "rag",
+    "accuracy": 0.4,
+    "correct": 40,
+    "total": 100
+  }
+}

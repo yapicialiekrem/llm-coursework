@@ -1,0 +1,6 @@
+{
+  "base_en2tr_comet": 0.7098993528336287,
+  "base_tr2en_comet": 0.7864407274276018,
+  "lora_en2tr_comet": 0.8188294625729322,
+  "lora_tr2en_comet": 0.8209377675801516
+}

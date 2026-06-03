@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# data + model artifacts (large / reproducible)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+outputs/checkpoints/*
+!outputs/checkpoints/.gitkeep
+*.safetensors
+
+# runtime logs are ignored, but committed result JSONs are kept as evidence
+outputs/logs/*
+!outputs/logs/.gitkeep
+!outputs/logs/*.json
+
+# wandb / HF cache
+wandb/
+.cache/

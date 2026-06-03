@@ -1,0 +1,47 @@
+# Core
+# NOTE: torch (cu128, Blackwell-compatible) is installed separately in setup_gpu.sh.
+transformers==4.46.3
+accelerate==1.1.1
+datasets==3.1.0
+sentencepiece==0.2.0
+protobuf>=4.24.4,<5.0          # unbabel-comet 2.2.4 needs <5
+
+# QLoRA / PEFT (versions known to work with SFTConfig API in train.py)
+peft==0.13.2
+bitsandbytes>=0.45.0           # 0.45+ has Blackwell CUDA kernels
+trl==0.12.2                    # classic SFTConfig API
+
+# Evaluation
+unbabel-comet==2.2.4
+sacrebleu==2.4.3
+evaluate==0.4.3
+
+# RAG stack
+langchain==0.3.7
+langchain-community==0.3.5
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.2
+chromadb==0.5.20
+sentence-transformers==3.3.1
+pypdf==5.1.0
+pdfplumber==0.11.4
+
+# Wikipedia tool (Task 3 reference)
+wikipedia-api==0.7.1
+
+# Google Drive downloads (MEB history PDFs)
+gdown==5.2.0
+
+# Utilities
+pyyaml>=6.0.2
+tqdm>=4.66.5
+python-dotenv>=1.0.1
+pandas>=2.2.3
+numpy>=1.26.4,<2.0             # some deps still pin numpy<2
+matplotlib>=3.9.2
+
+# Language detection (Task 3)
+langdetect==1.0.9
+
+# Logging
+wandb>=0.18.3

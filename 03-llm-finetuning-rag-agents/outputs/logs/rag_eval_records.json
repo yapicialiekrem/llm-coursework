@@ -1,0 +1,1206 @@
+{
+  "zero_shot": [
+    {
+      "q": "Selçukluların Anadolu akınları öncesinde Bizans Anadolu’da hâkim durumda idi. Özellikle Bizans Devleti’nin gücünü",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Malazgirt Savaşı’ndan sonra Anadolu’da kurulan ilk Türk beyliklerinin;  I. Türk-İslam kültürünü yansıtan eserler",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Türkiye tarihi açısından “Miryokefalon Savaşı” önemli bir dönüm noktasıdır. Bu savaşın sonuçları arasında aşağ",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Türkiye Selçuklu Devleti döneminde;  - Kervansaraylar yapılması, -   Ahi teşkilatının kurulması, -   Köylülere top",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Malazgirt Savaşı sonrası Anadolu’ya sahip olan Türkler, siyasi, askerî ve demografik açı­dan birçok değişimin yas",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "III. Haçlı Seferi’nin düzenlenme nedeni .............. Hıttin Savaşı ile Kudüs’ü Haçlılardan geri almasıdır. Ancak",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Büyük Selçuklu sultanı Tuğrul Bey zamanında batı seferlerine önem verilmiş, Oğuz boyları Anadolu yönüne sevk ed",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Karacahisar’ın fethinden sonra Dursun Fakih, Karacahisar’da birtakım düzenlemeler yapılması için Osman Bey’in, Selçuk",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Bizans sınırında bir uç beyliği olarak kurulan Osmanlı Beyliği’ni kısa sürede bir devlet hâline getiren Osman Bey’i",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti'nin Balkan topraklarındaki varlığı 1353’te Çimpe Kalesi’nin alınmasıyla başlamış, tarihî süreç ic",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı Devleti’nin konargöçerleri iskân ederek (yerleştirerek) ulaşmak istediği amaçla",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Kuruluş sürecinde Osmanlı askerî gücünü din uğruna savaşan gazi ve dervişler de oluştururdu. Bu savaşçılar f",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı Beyliği’nde askerî birliklerden; I. alplar ve gaziler, II. yaya ve müsellemler, III. yeniçeriler hangileri O",
+      "pred": "E",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Orhan Bey döneminde oluşturulan daimî ordu aşağıdakilerden hangisidir?",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Avrupa’da, feodalite sistemi içerisinde köle-çiftçi sınıfı görülürken Osmanlı Devleti’nde uygulanan tımar sistemi",
+      "pred": "A",
+      "gold": "A",
+      "correct": true
+    },
+    {
+      "q": "İlk Türk İslam Devletleri’nde esir düşen yada satın alınan çocuklar, “gulamhane’’ denilen yerde yetiştirilirdi. B",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti’nde  “Kapıkulu Askerleri”  olarak adlandırılan askerî birliğin özellikleri arasında aşağıdakilerden",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı coğrafyasında kültürün, söz ve yazı olmak üzere iki temel taşıyıcısı vardı. Sistematik öğretim kurumlar",
+      "pred": "D",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": " - Safevilerin Doğu Anadolu'daki varlığına son verilmiştir. - Erbil, Musul ve Kerkük Osmanlı Devleti'ne bağlanmışt",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı Devleti, doğuda ve güneyde Akkoyunlar, Karakoyunlular, Safeviler ve Memlük Devleti ile mücadele etmiştir. O",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "İngiltere Kraliçesi I. Elizabeth, XVI. yüzyılda İspanyol tehlikesi karşısında \"Büyük Türk\" ile ittifak arayışın",
+      "pred": "D",
+      "gold": "D",
+      "correct": true
+    },
+    {
+      "q": "Divân-ı Hümâyun, Osmanlı Devleti’nin kuruluş döneminden itibaren devlet işlerinin görülmesinden birinci derece s",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti'nde mülkiyeti devlete ait olan topraklara verilen ad aşağıdakilerden hangisidir?",
+      "pred": "A",
+      "gold": "A",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı Devleti’nde Müslüman şehir esnafı lonca adı verilen teşkilata bağlı olarak faaliyetlerde bulunurdu. Esnaf u",
+      "pred": "B",
+      "gold": "B",
+      "correct": true
+    },
+    {
+      "q": "Bilgi :  Fatih Dönemi'nde vakfiyesi olan hastaneler bulunmaktadır. “...hastanede (Dâru'ş-şifâ) muhtaç kimseler bak",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti ile Avusturya arasında yapılan; I. 1533 İstanbul Antlaşması ile Avusturya hükümdarı Osmanlı vezir-i ",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Zitvatorok Antlaşması ile Osmanlılar, Macaristan’da durumunu korumuş hatta Eğri ve Kanije adlarında iki yeni beylerbe",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Coğrafi Keşiflerle sömürgeler elde eden Avrupalı devletler zamanla birbirleriyle de rekabete girmiştir. Bu süreçt",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Avusturya, Malta, Lehistan, Venedik ve Rusya 1683’te güçlerini birleştirerek Kutsal İttifak’ı oluşturmuştur. Kutsa",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti ile Avusturya arasında 1596 yılında yapılan Haçova Savaşı’ndan sonra Zitvatorok Antlaşması imzalanmıs",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "XV. yüzyılın ikinci yarısından itibaren Avrupa'da ateşli silahlar etkin bir şekilde kullanılmaya başlanmıştır. Bu d",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Akdeniz’de kıyısı bulunan ülkeler, Coğrafi Keşifler öncesinde ticarî açıdan önemli gelirlere sahipken, keşifler ",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "I.   İç isyanlara ortam hazırlamıştır. II.   Köylünün toprağını terk etmesine sebep olmuştur. III. Vergilerini o",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Aşağıda verilen kavram ve açıklamalarından hangisi yanlış verilmiştir?",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Coğrafi Keşifler Osmanlı Devleti'ni öncelikle hangi alanda etkilemiştir? ",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "I. Avrupa’ya giden elçiler Avrupa diplomasisi, sanatı, sanayisi, tarımı, askerî gücü ve teknolojisi hakkında İstanb",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "XVII. yüzyıldan itibaren Avrupa’ya kapitülasyonlarla verilen haklar genişletildi. Gümrük vergilerini yerli tüccarl",
+      "pred": "E",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Avrupalı bir kral: “Güçlü donanmamız ve diplomasiden iyi anlayan politikacılarımız sayesinde üzerinde güneş batmay",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "''İnsan yaşamı ile devlet yapısı birbirine benzer. Çocukluk, gençlik, olgunluk ve yaşlılık... Kişi nasıl bu evrele",
+      "pred": "D",
+      "gold": "D",
+      "correct": true
+    },
+    {
+      "q": "I. İran üzerine seferler düzenlemiştir. II. Layihalar hazırlatarak sorunların kaynağını tespit etmeye çalışmıştı",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Yeni Çağ'da Osmanlı merkezî otoritesinin bozulmasının nedenlerinden biri değildir?",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti’nin, “Arayış Yılları”nda merkezî otoritesinin zayıflaması iç isyanlara sebep olmuştur. Aşağıdakile",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti’nde ilk Türk matbaasının kullanılmaya başlanmasına bağlı olarak ortaya çıkan gelişmeler arasında as",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Fransız İhtilali, önceki toplumsal ve siyasi düzenin tüm kurumlarını ortadan kaldırmaya yönelik bir seyir izledi. I",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "- Tanzimat Fermanı'nın ilanı - Islahat Fermanı'nın ilanı - I. ve II. Meşrutiyet'in ilanı Yukarıda verilen Osmanlı tarih",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti ile ilgili olarak, aşağıdakilerin hangisinde I. öncülde verilen durumun II. öncülde verilen duruma",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "XVIII. yüzyıl sonlarına kadar Osmanlı Devleti ile ilişkileri iyi olan ancak çıkarları söz konusu olduğunda Osmanlı ",
+      "pred": "A",
+      "gold": "A",
+      "correct": true
+    },
+    {
+      "q": "Mısır Valisi .......... Paşa, ........... isyanını bastırmanın karşılığında Osmanlı Devleti’nden Mora ve Girit Valili",
+      "pred": "E",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti, Kırım’ın Rusya’ya ait olduğunu aşağıdaki antlaşmalardan hangisiyle kabul etmiştir?",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti'nin son döneminde köyden şehre göç nedenleri arasında; I.   Celali isyanları nedeniyle huzur ve gü",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Mustafa Kemal’in yaklaşık üç yıl eğitim aldığı Manastır kentiyle ilgili aşağıda verilen bilgilerden hangisi yanlı",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Ermeni sorununun ortaya çıkmasında; I. Osmanlı toprakları üzerinde emelleri olan devletlerin politikaları, II. Milliye",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "Kütahya - Eskişehir Savaşları sonrasında Türk ordusunun yok olmasını engellemek isteyen Mustafa Kemal’in uygulamış ",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Millî Mücadele Dönemi’nde imzalanan Ankara Antlaşması’nın sonuçlarından biri değildir?",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Lozan Antlaşması'na göre yabancı okulların Türk kanunlarına ve Türk eğitim kurallarına uymaları ve denetimlerinin T",
+      "pred": "D",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdaki gelişmelerden hangisinin, laik bir toplum yapısı oluşturmak için yapılan çalışmalardan biri olduğu sav",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "- Rejim tartışmaları sona ermiştir. - Devlet başkanlığı sorunu çözülmüştür. Yukarıda verilen bilgiler aşağıd",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "•  Topraksız çiftçinin topraklandırılmaya çalışılması •  Tarım bölgelerinin oluşturulması •  Tohum ıslah istasyonl",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Montrö Boğazlar Sözleşmesi'nin; l. Savaş zamanında, Türkiye savaşan ise, savaş gemilerinin geçişi konusunda Tu",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdaki devletlerden hangisi ile Atatürk Dönemi'nde siyasi ilişki kurulmamıştır? ",
+      "pred": "D",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Atatürk önderliğinde kurulan Balkan Antantı'na üye ülkelerden biri değildir?",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Atatürk döneminin son başbakanı ile Türkiye Cumhuriyeti'nin ikinci cumhurbaşkanı aşağıdakilerden hangisinde doğr",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 1923'ten sonra Türk dış politikasında ele alınıp çözümlenmeye çalışılmış konulardan bi",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "ABD ve Fransa'nın öncülük ettiği Almanya, İngiltere, Belçika, Polonya, Çekoslavakya ve Rusya gibi devletlerin kat",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi I. Dünya Savaşı sonrası dünya barışını sağlama ve koruma amacına yönelik gelişmelerden ",
+      "pred": "D",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "II. Dünya Savaşı sırasında henüz savaşa girmemiş olan ABD ile İngiltere arasında imzalanan Atlantik Bildirisi’nin ",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "II. Dünya Savaşı sonrası; I. Japonya, II. İtalya, III. Almanya, IV. Kore topraklarının hangilerinde farklı rejimlerle",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "II. Dünya Savaşı sonrası aşağıdaki devletlerden hangileri \"Süper Güç\" haline gelmiştir?",
+      "pred": "B",
+      "gold": "B",
+      "correct": true
+    },
+    {
+      "q": "ABD'nin, II. Dünya Savaşı'ndan sonra dünya liderliğini üstlenmek için özellikle Avrupa ülkelerine yaptığı genis",
+      "pred": "A",
+      "gold": "A",
+      "correct": true
+    },
+    {
+      "q": "I. Çin                    II. Yugoslavya  III. Belçika                                                         IV. Dan",
+      "pred": "D",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdaki devletlerin hangisinde komünist rejim uygulanmıştır?",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "1971’de siyasi içerikli şiddet olaylarının artması nedeniyle silahlı kuvvetlerin verdiği 12 Mart Muhtırası üzerine b",
+      "pred": "A",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Cumhuriyet tarihimizin en büyük tarım, istihdam ve enerji alanındaki projesidir? ",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi AB Eğitim ve Gençlik Programlarından biri değildir?",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Ebulfeyz Elçibey önderliğinde 1991'de bağımsızlığını ilan eden ülke aşağıdakilerden hangisidir? ",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Kadeş Antlaşması, dünya tarihinde eşitlik ilkesine dayanan en eski antlaşmadır. Antlaşma çivi yazısıyla gümüş ",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "I. Tarih öncesi devirler bölümlere ayrılırken, insanların kullandığı araç ve gereçler esas alınmıştır. II. Tarih ",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "“Tarihinin sürekliliğini kaybeden bir millet, her şeyini kaybetmeye mahkûmdur. Hafızası parça parça kopmuş bir ak",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Büyük Selçuklu Sultanı Melikşah’ın emriyle Ömer Hayyam başkanlığında kurulan bir astronomi heyetince hazırlanan T",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "“Uygarlık” kavramını, “kültür” kavramından farklı kılan temel özellik aşağıdakilerden hangisidir?",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Uygarlıkların ortaya çıkışını ve yayılışını etkileyen faktörler arasında;  I.   Coğrafi II. Siyasi III.   Ekonomik ",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Tarih öncesi dönemle ilgili bir araştırma yapan tarihçi, aşağıdaki bulgulardan hangisine ulaşmış olamaz?",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Hitit uygarlığına ait aşağıdaki bilgilerden hangisi yanlıştır?",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Türgişler, Emevilerle yaptıkları uzun savaşlar sonrasında Arapları yenmişler ve İslamiyet'in Orta Asya'ya yayılması",
+      "pred": "D",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Orta Çağ’da konar-göçer yaşamı benimseyen topluluklarda aşağıdakilerden hangisinin görülmesi beklenir?",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Justinianus Kanunlarına göre; •  Kişiler evli olduklarını önceden yapılmış drahoma adı verilen bir sözleşmeyle ya ",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Orta Asya’da kurulan ilk Türk devletleri; I.   Çin, II.   Sasani, III.   Bizans devletlerinden hangileriyle ilişki ku",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "I.   Türk kelimesini ilk kez devlet adında kullanan Kök Türklerdir. II.   Türkiye adı coğrafi bir bölge olarak Biz",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Orhun Yazıtları’na göre dünya hâkimiyeti, Tanrı tarafından Türk kağanlarına bir görev olarak verilmiştir. Bilge K",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Ki-Ok döneminden itibaren Çinli prenseslerin siyasi gücünden yararlanan Çin, Büyük Hun Devleti’ne casusluk yapmal",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Türk tarihine ait bazı bilgiler şunlardır: I. Orta Asya’da bilinen ilk teşkilatlı Türk devletidir. II. Türk tarihin",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Orta Asya Türk göçlerinin sonuçlarından biri değildir?",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Günümüz Kara Kuvvetleri Komutanlığı'nın kuruluş tarihi olarak MÖ. 209’da ilk düzenli ordunun kuruluşunun kabul e",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Avrupa Hun hükümdarı Attila, 452 yılında İtalya'ya bir sefer düzenlemiş; Romalılar, Attila'dan Roma'yı ve kendileri",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "I.   Yalancı peygamberler, II.   Hicri takvimin düzenlenmesi, III.   Ridde Olayı, IV.   Bazı kabilelerin zekat vermemes",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "İslam Devletinde   görülen; -   Savaşlarda elde edilen ganimetlerin beşte biri devlete bırakılırken geri kalanı ask",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "I.   Yönetimde dini kuralların uygulanması, II.   Müslümanlar arasında görüş ayrılıklarının yaşanması, III.   Hal",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "-   Büyük Selçuklu Devleti ile Bizans arasında yapılan ilk savaştır. -   Savaşın en önemli sebebi Bizans'ın artan ",
+      "pred": "A",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Büyük Selçuklu Devleti ile Bizans İmparatorluğu arasında meydana  gelen Malazgirt Savaşı’nın; I. Haçlı Seferleri’",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "Kutadgu Bilig’de devlet teşkilatının özellikleri şu şekilde dile getirilmiştir: “Memleket tutmak için çok askerve",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    }
+  ],
+  "rag": [
+    {
+      "q": "Selçukluların Anadolu akınları öncesinde Bizans Anadolu’da hâkim durumda idi. Özellikle Bizans Devleti’nin gücünü",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Malazgirt Savaşı’ndan sonra Anadolu’da kurulan ilk Türk beyliklerinin;  I. Türk-İslam kültürünü yansıtan eserler",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Türkiye tarihi açısından “Miryokefalon Savaşı” önemli bir dönüm noktasıdır. Bu savaşın sonuçları arasında aşağ",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Türkiye Selçuklu Devleti döneminde;  - Kervansaraylar yapılması, -   Ahi teşkilatının kurulması, -   Köylülere top",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Malazgirt Savaşı sonrası Anadolu’ya sahip olan Türkler, siyasi, askerî ve demografik açı­dan birçok değişimin yas",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "III. Haçlı Seferi’nin düzenlenme nedeni .............. Hıttin Savaşı ile Kudüs’ü Haçlılardan geri almasıdır. Ancak",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Büyük Selçuklu sultanı Tuğrul Bey zamanında batı seferlerine önem verilmiş, Oğuz boyları Anadolu yönüne sevk ed",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Karacahisar’ın fethinden sonra Dursun Fakih, Karacahisar’da birtakım düzenlemeler yapılması için Osman Bey’in, Selçuk",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Bizans sınırında bir uç beyliği olarak kurulan Osmanlı Beyliği’ni kısa sürede bir devlet hâline getiren Osman Bey’i",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti'nin Balkan topraklarındaki varlığı 1353’te Çimpe Kalesi’nin alınmasıyla başlamış, tarihî süreç ic",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı Devleti’nin konargöçerleri iskân ederek (yerleştirerek) ulaşmak istediği amaçla",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Kuruluş sürecinde Osmanlı askerî gücünü din uğruna savaşan gazi ve dervişler de oluştururdu. Bu savaşçılar f",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı Beyliği’nde askerî birliklerden; I. alplar ve gaziler, II. yaya ve müsellemler, III. yeniçeriler hangileri O",
+      "pred": "E",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Orhan Bey döneminde oluşturulan daimî ordu aşağıdakilerden hangisidir?",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Avrupa’da, feodalite sistemi içerisinde köle-çiftçi sınıfı görülürken Osmanlı Devleti’nde uygulanan tımar sistemi",
+      "pred": "A",
+      "gold": "A",
+      "correct": true
+    },
+    {
+      "q": "İlk Türk İslam Devletleri’nde esir düşen yada satın alınan çocuklar, “gulamhane’’ denilen yerde yetiştirilirdi. B",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti’nde  “Kapıkulu Askerleri”  olarak adlandırılan askerî birliğin özellikleri arasında aşağıdakilerden",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı coğrafyasında kültürün, söz ve yazı olmak üzere iki temel taşıyıcısı vardı. Sistematik öğretim kurumlar",
+      "pred": "E",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": " - Safevilerin Doğu Anadolu'daki varlığına son verilmiştir. - Erbil, Musul ve Kerkük Osmanlı Devleti'ne bağlanmışt",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı Devleti, doğuda ve güneyde Akkoyunlar, Karakoyunlular, Safeviler ve Memlük Devleti ile mücadele etmiştir. O",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "İngiltere Kraliçesi I. Elizabeth, XVI. yüzyılda İspanyol tehlikesi karşısında \"Büyük Türk\" ile ittifak arayışın",
+      "pred": "D",
+      "gold": "D",
+      "correct": true
+    },
+    {
+      "q": "Divân-ı Hümâyun, Osmanlı Devleti’nin kuruluş döneminden itibaren devlet işlerinin görülmesinden birinci derece s",
+      "pred": "B",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti'nde mülkiyeti devlete ait olan topraklara verilen ad aşağıdakilerden hangisidir?",
+      "pred": "A",
+      "gold": "A",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı Devleti’nde Müslüman şehir esnafı lonca adı verilen teşkilata bağlı olarak faaliyetlerde bulunurdu. Esnaf u",
+      "pred": "B",
+      "gold": "B",
+      "correct": true
+    },
+    {
+      "q": "Bilgi :  Fatih Dönemi'nde vakfiyesi olan hastaneler bulunmaktadır. “...hastanede (Dâru'ş-şifâ) muhtaç kimseler bak",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti ile Avusturya arasında yapılan; I. 1533 İstanbul Antlaşması ile Avusturya hükümdarı Osmanlı vezir-i ",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Zitvatorok Antlaşması ile Osmanlılar, Macaristan’da durumunu korumuş hatta Eğri ve Kanije adlarında iki yeni beylerbe",
+      "pred": "D",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Coğrafi Keşiflerle sömürgeler elde eden Avrupalı devletler zamanla birbirleriyle de rekabete girmiştir. Bu süreçt",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Avusturya, Malta, Lehistan, Venedik ve Rusya 1683’te güçlerini birleştirerek Kutsal İttifak’ı oluşturmuştur. Kutsa",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı Devleti ile Avusturya arasında 1596 yılında yapılan Haçova Savaşı’ndan sonra Zitvatorok Antlaşması imzalanmıs",
+      "pred": "D",
+      "gold": "D",
+      "correct": true
+    },
+    {
+      "q": "XV. yüzyılın ikinci yarısından itibaren Avrupa'da ateşli silahlar etkin bir şekilde kullanılmaya başlanmıştır. Bu d",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Akdeniz’de kıyısı bulunan ülkeler, Coğrafi Keşifler öncesinde ticarî açıdan önemli gelirlere sahipken, keşifler ",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "I.   İç isyanlara ortam hazırlamıştır. II.   Köylünün toprağını terk etmesine sebep olmuştur. III. Vergilerini o",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Aşağıda verilen kavram ve açıklamalarından hangisi yanlış verilmiştir?",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Coğrafi Keşifler Osmanlı Devleti'ni öncelikle hangi alanda etkilemiştir? ",
+      "pred": "B",
+      "gold": "B",
+      "correct": true
+    },
+    {
+      "q": "I. Avrupa’ya giden elçiler Avrupa diplomasisi, sanatı, sanayisi, tarımı, askerî gücü ve teknolojisi hakkında İstanb",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "XVII. yüzyıldan itibaren Avrupa’ya kapitülasyonlarla verilen haklar genişletildi. Gümrük vergilerini yerli tüccarl",
+      "pred": "E",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Avrupalı bir kral: “Güçlü donanmamız ve diplomasiden iyi anlayan politikacılarımız sayesinde üzerinde güneş batmay",
+      "pred": "B",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "''İnsan yaşamı ile devlet yapısı birbirine benzer. Çocukluk, gençlik, olgunluk ve yaşlılık... Kişi nasıl bu evrele",
+      "pred": "D",
+      "gold": "D",
+      "correct": true
+    },
+    {
+      "q": "I. İran üzerine seferler düzenlemiştir. II. Layihalar hazırlatarak sorunların kaynağını tespit etmeye çalışmıştı",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Yeni Çağ'da Osmanlı merkezî otoritesinin bozulmasının nedenlerinden biri değildir?",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti’nin, “Arayış Yılları”nda merkezî otoritesinin zayıflaması iç isyanlara sebep olmuştur. Aşağıdakile",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti’nde ilk Türk matbaasının kullanılmaya başlanmasına bağlı olarak ortaya çıkan gelişmeler arasında as",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Fransız İhtilali, önceki toplumsal ve siyasi düzenin tüm kurumlarını ortadan kaldırmaya yönelik bir seyir izledi. I",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "- Tanzimat Fermanı'nın ilanı - Islahat Fermanı'nın ilanı - I. ve II. Meşrutiyet'in ilanı Yukarıda verilen Osmanlı tarih",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı Devleti ile ilgili olarak, aşağıdakilerin hangisinde I. öncülde verilen durumun II. öncülde verilen duruma",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "XVIII. yüzyıl sonlarına kadar Osmanlı Devleti ile ilişkileri iyi olan ancak çıkarları söz konusu olduğunda Osmanlı ",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Mısır Valisi .......... Paşa, ........... isyanını bastırmanın karşılığında Osmanlı Devleti’nden Mora ve Girit Valili",
+      "pred": "E",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Osmanlı Devleti, Kırım’ın Rusya’ya ait olduğunu aşağıdaki antlaşmalardan hangisiyle kabul etmiştir?",
+      "pred": "B",
+      "gold": "B",
+      "correct": true
+    },
+    {
+      "q": "Osmanlı Devleti'nin son döneminde köyden şehre göç nedenleri arasında; I.   Celali isyanları nedeniyle huzur ve gü",
+      "pred": "D",
+      "gold": "D",
+      "correct": true
+    },
+    {
+      "q": "Mustafa Kemal’in yaklaşık üç yıl eğitim aldığı Manastır kentiyle ilgili aşağıda verilen bilgilerden hangisi yanlı",
+      "pred": "B",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Ermeni sorununun ortaya çıkmasında; I. Osmanlı toprakları üzerinde emelleri olan devletlerin politikaları, II. Milliye",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "Kütahya - Eskişehir Savaşları sonrasında Türk ordusunun yok olmasını engellemek isteyen Mustafa Kemal’in uygulamış ",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Millî Mücadele Dönemi’nde imzalanan Ankara Antlaşması’nın sonuçlarından biri değildir?",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Lozan Antlaşması'na göre yabancı okulların Türk kanunlarına ve Türk eğitim kurallarına uymaları ve denetimlerinin T",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Aşağıdaki gelişmelerden hangisinin, laik bir toplum yapısı oluşturmak için yapılan çalışmalardan biri olduğu sav",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "- Rejim tartışmaları sona ermiştir. - Devlet başkanlığı sorunu çözülmüştür. Yukarıda verilen bilgiler aşağıd",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "•  Topraksız çiftçinin topraklandırılmaya çalışılması •  Tarım bölgelerinin oluşturulması •  Tohum ıslah istasyonl",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Montrö Boğazlar Sözleşmesi'nin; l. Savaş zamanında, Türkiye savaşan ise, savaş gemilerinin geçişi konusunda Tu",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdaki devletlerden hangisi ile Atatürk Dönemi'nde siyasi ilişki kurulmamıştır? ",
+      "pred": "B",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Atatürk önderliğinde kurulan Balkan Antantı'na üye ülkelerden biri değildir?",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Atatürk döneminin son başbakanı ile Türkiye Cumhuriyeti'nin ikinci cumhurbaşkanı aşağıdakilerden hangisinde doğr",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 1923'ten sonra Türk dış politikasında ele alınıp çözümlenmeye çalışılmış konulardan bi",
+      "pred": "D",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "ABD ve Fransa'nın öncülük ettiği Almanya, İngiltere, Belçika, Polonya, Çekoslavakya ve Rusya gibi devletlerin kat",
+      "pred": "D",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi I. Dünya Savaşı sonrası dünya barışını sağlama ve koruma amacına yönelik gelişmelerden ",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "II. Dünya Savaşı sırasında henüz savaşa girmemiş olan ABD ile İngiltere arasında imzalanan Atlantik Bildirisi’nin ",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "II. Dünya Savaşı sonrası; I. Japonya, II. İtalya, III. Almanya, IV. Kore topraklarının hangilerinde farklı rejimlerle",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "II. Dünya Savaşı sonrası aşağıdaki devletlerden hangileri \"Süper Güç\" haline gelmiştir?",
+      "pred": "B",
+      "gold": "B",
+      "correct": true
+    },
+    {
+      "q": "ABD'nin, II. Dünya Savaşı'ndan sonra dünya liderliğini üstlenmek için özellikle Avrupa ülkelerine yaptığı genis",
+      "pred": "A",
+      "gold": "A",
+      "correct": true
+    },
+    {
+      "q": "I. Çin                    II. Yugoslavya  III. Belçika                                                         IV. Dan",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdaki devletlerin hangisinde komünist rejim uygulanmıştır?",
+      "pred": "B",
+      "gold": "B",
+      "correct": true
+    },
+    {
+      "q": "1971’de siyasi içerikli şiddet olaylarının artması nedeniyle silahlı kuvvetlerin verdiği 12 Mart Muhtırası üzerine b",
+      "pred": "D",
+      "gold": "D",
+      "correct": true
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Cumhuriyet tarihimizin en büyük tarım, istihdam ve enerji alanındaki projesidir? ",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi AB Eğitim ve Gençlik Programlarından biri değildir?",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Ebulfeyz Elçibey önderliğinde 1991'de bağımsızlığını ilan eden ülke aşağıdakilerden hangisidir? ",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Kadeş Antlaşması, dünya tarihinde eşitlik ilkesine dayanan en eski antlaşmadır. Antlaşma çivi yazısıyla gümüş ",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "I. Tarih öncesi devirler bölümlere ayrılırken, insanların kullandığı araç ve gereçler esas alınmıştır. II. Tarih ",
+      "pred": "D",
+      "gold": "D",
+      "correct": true
+    },
+    {
+      "q": "“Tarihinin sürekliliğini kaybeden bir millet, her şeyini kaybetmeye mahkûmdur. Hafızası parça parça kopmuş bir ak",
+      "pred": "D",
+      "gold": "D",
+      "correct": true
+    },
+    {
+      "q": "Büyük Selçuklu Sultanı Melikşah’ın emriyle Ömer Hayyam başkanlığında kurulan bir astronomi heyetince hazırlanan T",
+      "pred": "C",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "“Uygarlık” kavramını, “kültür” kavramından farklı kılan temel özellik aşağıdakilerden hangisidir?",
+      "pred": "D",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Uygarlıkların ortaya çıkışını ve yayılışını etkileyen faktörler arasında;  I.   Coğrafi II. Siyasi III.   Ekonomik ",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Tarih öncesi dönemle ilgili bir araştırma yapan tarihçi, aşağıdaki bulgulardan hangisine ulaşmış olamaz?",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Hitit uygarlığına ait aşağıdaki bilgilerden hangisi yanlıştır?",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Türgişler, Emevilerle yaptıkları uzun savaşlar sonrasında Arapları yenmişler ve İslamiyet'in Orta Asya'ya yayılması",
+      "pred": "D",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Orta Çağ’da konar-göçer yaşamı benimseyen topluluklarda aşağıdakilerden hangisinin görülmesi beklenir?",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Justinianus Kanunlarına göre; •  Kişiler evli olduklarını önceden yapılmış drahoma adı verilen bir sözleşmeyle ya ",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Orta Asya’da kurulan ilk Türk devletleri; I.   Çin, II.   Sasani, III.   Bizans devletlerinden hangileriyle ilişki ku",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "I.   Türk kelimesini ilk kez devlet adında kullanan Kök Türklerdir. II.   Türkiye adı coğrafi bir bölge olarak Biz",
+      "pred": "C",
+      "gold": "E",
+      "correct": false
+    },
+    {
+      "q": "Orhun Yazıtları’na göre dünya hâkimiyeti, Tanrı tarafından Türk kağanlarına bir görev olarak verilmiştir. Bilge K",
+      "pred": "C",
+      "gold": "A",
+      "correct": false
+    },
+    {
+      "q": "Ki-Ok döneminden itibaren Çinli prenseslerin siyasi gücünden yararlanan Çin, Büyük Hun Devleti’ne casusluk yapmal",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Türk tarihine ait bazı bilgiler şunlardır: I. Orta Asya’da bilinen ilk teşkilatlı Türk devletidir. II. Türk tarihin",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Orta Asya Türk göçlerinin sonuçlarından biri değildir?",
+      "pred": "C",
+      "gold": "C",
+      "correct": true
+    },
+    {
+      "q": "Günümüz Kara Kuvvetleri Komutanlığı'nın kuruluş tarihi olarak MÖ. 209’da ilk düzenli ordunun kuruluşunun kabul e",
+      "pred": "C",
+      "gold": "B",
+      "correct": false
+    },
+    {
+      "q": "Avrupa Hun hükümdarı Attila, 452 yılında İtalya'ya bir sefer düzenlemiş; Romalılar, Attila'dan Roma'yı ve kendileri",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "I.   Yalancı peygamberler, II.   Hicri takvimin düzenlenmesi, III.   Ridde Olayı, IV.   Bazı kabilelerin zekat vermemes",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "İslam Devletinde   görülen; -   Savaşlarda elde edilen ganimetlerin beşte biri devlete bırakılırken geri kalanı ask",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "I.   Yönetimde dini kuralların uygulanması, II.   Müslümanlar arasında görüş ayrılıklarının yaşanması, III.   Hal",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "-   Büyük Selçuklu Devleti ile Bizans arasında yapılan ilk savaştır. -   Savaşın en önemli sebebi Bizans'ın artan ",
+      "pred": "E",
+      "gold": "E",
+      "correct": true
+    },
+    {
+      "q": "Büyük Selçuklu Devleti ile Bizans İmparatorluğu arasında meydana  gelen Malazgirt Savaşı’nın; I. Haçlı Seferleri’",
+      "pred": "E",
+      "gold": "C",
+      "correct": false
+    },
+    {
+      "q": "Kutadgu Bilig’de devlet teşkilatının özellikleri şu şekilde dile getirilmiştir: “Memleket tutmak için çok askerve",
+      "pred": "E",
+      "gold": "D",
+      "correct": false
+    }
+  ]
+}

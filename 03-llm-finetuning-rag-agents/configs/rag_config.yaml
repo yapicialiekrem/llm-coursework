@@ -1,0 +1,56 @@
+# Task 2 — RAG config for TurkishMMLU History QA
+
+knowledge_base:
+  # 4 MEB lise tarih ders kitabı, 2024-2025 müfredat
+  source_pdfs:
+    - path: "data/raw/meb_tarih/9_sinif_tarih.pdf"
+      source_id: "meb_9"
+    - path: "data/raw/meb_tarih/10_sinif_tarih.pdf"
+      source_id: "meb_10"
+    - path: "data/raw/meb_tarih/11_sinif_tarih.pdf"
+      source_id: "meb_11"
+    - path: "data/raw/meb_tarih/12_sinif_inkilap.pdf"
+      source_id: "meb_12_inkilap"
+  output_dir: "data/processed/kb"
+
+chunking:
+  strategy: "recursive_character"
+  chunk_size: 512            # tokens (approx via tiktoken)
+  chunk_overlap: 64
+  separators: ["\n\n", "\n", ". ", " ", ""]
+
+embedding:
+  model_name: "BAAI/bge-m3"           # strong multilingual + Turkish
+  # fallback: "intfloat/multilingual-e5-large"
+  device: "cuda"
+  batch_size: 32
+  normalize: true
+
+vector_db:
+  type: "chromadb"
+  persist_dir: "data/processed/chroma_history"
+  collection_name: "turkish_history"
+  distance: "cosine"
+
+retrieval:
+  top_k: 5
+  score_threshold: null         # null = no filter
+
+dataset:
+  name: "AYueksel/TurkishMMLU"
+  subject: "History"            # config name on HF (case-sensitive)
+  split: "test"
+
+generation:
+  llm_path: "outputs/checkpoints/qwen25_7b_lora_wmt16"   # fine-tuned model
+  base_model: "Qwen/Qwen2.5-7B-Instruct"                 # used as fallback
+  load_in_4bit: true
+  max_new_tokens: 64
+  do_sample: false
+  num_beams: 1
+
+evaluation:
+  output_file: "outputs/logs/rag_eval_results.json"
+  modes:
+    - "zero_shot"
+    - "rag"
